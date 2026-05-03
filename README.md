@@ -2,6 +2,10 @@
 
 Phonebook is a full-stack contact management application with a React frontend and an Express/MySQL backend. It includes user authentication, company and role management, and member contact records.
 
+## Author
+
+Zahra Jafarifard
+
 ## Tech Stack
 
 - Frontend: React, Redux Toolkit, React Router, Tailwind CSS
@@ -16,6 +20,8 @@ Phonebook/
 +-- back-end/     # Express API, Sequelize models, routes, controllers
 `-- front-end/    # React client application
 ```
+
+Each project folder includes its own README with setup details and project-specific documentation.
 
 ## Getting Started
 
